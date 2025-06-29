@@ -1,3 +1,2 @@
-my name is yadunandan
-i am from khandwa
-i am a QA testing engineer at codezilla technology pvt.ltd
+Hello, I am yadunandan
+I am working as a QA Engineer at codezilla technology
